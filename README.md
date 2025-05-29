@@ -1,5 +1,6 @@
 # Ex. No : 5	
 # RECOGNITION OF THE GRAMMAR (a<sup>n</sup>b where n>=10) USING YACC
+#Date : 20/05/2024
 ## Register Number : 212223240150
 
 # Aim:
